@@ -16,5 +16,6 @@ if __name__ == "__main__":
 
     adder = Adder(10, 20)
     print(adder.getSum())
+    print(":-)")
 
     print("Done with program")
