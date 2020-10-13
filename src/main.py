@@ -19,4 +19,5 @@ if __name__ == "__main__":
     print(":-)")
     print("8-)")
     print("<3")
+    print(":)")
     print("Done with program")
