@@ -18,4 +18,5 @@ if __name__ == "__main__":
     print(adder.getSum())
     print(":-)")
     print("8-)")
+    print("<3")
     print("Done with program")
